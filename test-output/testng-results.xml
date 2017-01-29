@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37089" started-at="2017-01-29T12:08:10Z" finished-at="2017-01-29T12:08:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37089" started-at="2017-01-29T12:08:10Z" finished-at="2017-01-29T12:08:47Z">
+      <class name="market_nh98.market">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:market_nh98.market@4c70fda8]" name="beforetest" is-config="true" duration-ms="12173" started-at="2017-01-29T17:38:10Z" finished-at="2017-01-29T17:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="marketload()[pri:0, instance:market_nh98.market@4c70fda8]" name="marketload" duration-ms="24634" started-at="2017-01-29T17:38:22Z" finished-at="2017-01-29T17:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- marketload -->
+        <test-method status="PASS" signature="exittest()[pri:0, instance:market_nh98.market@4c70fda8]" name="exittest" is-config="true" duration-ms="201" started-at="2017-01-29T17:38:47Z" finished-at="2017-01-29T17:38:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exittest -->
+      </class> <!-- market_nh98.market -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
